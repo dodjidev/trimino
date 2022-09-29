@@ -1,0 +1,17 @@
+/* @import url("~@flaticon/flaticon-uicons/css/all/all"); */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+@layer base {
+    .btn {
+      @apply text-white  bg-indigo-500
+    }
+
+    
+}
+
+.v-aside {
+    background-color: rgb(71, 71, 71);     
+}
